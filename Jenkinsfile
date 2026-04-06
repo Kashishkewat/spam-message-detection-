@@ -10,7 +10,7 @@ pipeline {
 
     stage('Clone Code') {
       steps {
-        git 'https://github.com/your-repo.git'
+        git 'https://github.com/Kashishkewat/spam-message-detection-.git'
       }
     }
 
